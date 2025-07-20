@@ -1,4 +1,4 @@
-# LandingGithub
+# L Moryakantha
 # 💫 About Me:
 🎓 B.E. AIML student at RVCE | 🤖 Passionate about AI/ML, Computer Vision & Intelligent Systems  
 🌐 Exploring Full-Stack Dev, Applied ML, LLMs, and Sustainable Tech  
